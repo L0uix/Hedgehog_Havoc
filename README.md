@@ -1,2 +1,2 @@
 # Hedgehog_Havoc
-A Sonic Fan game created by Graspey
+A 3D open world Sonic Fan game created by Graspey
